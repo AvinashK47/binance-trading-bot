@@ -32,8 +32,8 @@ It supports Market, Limit, and Stop-Limit orders, with all actions and errors lo
 1. **Clone the Repository:**
 
    ```sh
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/AvinashK47/binance-trading-bot
+   cd binance-trading-bot
    ```
 
 2. **Set up a Virtual Environment (Recommended):**
