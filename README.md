@@ -81,7 +81,7 @@ python src/market_orders.py BTCUSDT BUY 0.001
 python src/limit_orders.py ETHUSDT SELL 0.1 3000
 ```
 
-### To Place a Stop-Limit Order (Bonus)
+### To Place a Stop-Limit Order
 
 **Syntax:** `python src/advanced/stop_limit_orders.py <SYMBOL> <SIDE> <QUANTITY> <PRICE> <STOP_PRICE>`
 
